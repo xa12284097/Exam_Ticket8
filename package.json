@@ -1,0 +1,16 @@
+{
+  "name": "testing-exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src/test.js"
+  },
+  "author": "Alex Batih",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "chai-sorted": "^0.2.0",
+    "mocha": "^10.0.0"
+  }
+}
